@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to= "/smallpdf.html"
+status = 200

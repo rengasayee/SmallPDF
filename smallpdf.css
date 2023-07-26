@@ -1,0 +1,265 @@
+div,p,ul,li,span,h1,h2{
+    font-family: arial;
+    letter-spacing: 1px;
+}
+body{
+    background-color: lightgreen;
+}
+.div1 .tools select{
+    white-space: nowrap;
+    display: inline;
+    position: relative;
+    bottom: 18px;
+    left: 90px;
+}
+.div1 .links1 li{
+    /* white-space: nowrap; */
+    display: inline-block;
+    position: relative;
+    bottom: 53px;
+    left: 230px;
+}
+.div1 .links2 li{
+    display: inline-block;
+    position: relative;
+    bottom: 87px;
+    left: 800px;
+}
+.div1  form{
+    align-content: end;
+    position: relative;
+    bottom: 122px;
+    left: 1250px;
+}
+/* .div1{
+    margin: 0 auto;
+} */
+.div1 .links1 li a{
+    margin: 5px;
+    padding: 5px;
+}
+.div1 .links2 li a{
+    margin: 5px;
+    padding: 5px;
+}
+section{
+    position: relative;
+    bottom: 100px;
+}
+.div1{
+    top: 0px;
+}
+.spdf{
+    display: inline;
+    position: relative;
+    bottom: 40px;
+    left: 0px;
+}
+section .div99{
+    position: relative;
+    bottom : 90px;
+    text-align : center;
+}
+.div98{
+    text-align : center;
+}
+section .div97 .spdf2{
+    position: relative;
+    bottom: 90px;
+    left: 800px;
+}
+.div97 p .edit{
+    position: relative;
+    bottom: 200px;
+}
+.div96 .spdf3{
+    position : relative;
+    bottom: 90px;
+    left : 700px;
+}
+.div96 a{
+    position : relative;
+    bottom : 120px;
+}
+.div95 .spdf4{
+    position : relative;
+    bottom : 90px;
+    left : 600px;
+}
+.div95 a{
+    position : relative;
+    bottom : 120px;
+}
+.div2{
+    position : relative;
+    bottom : 70px;
+}
+.head1 , .head2, .head3, .head4, .head5{
+    text-align : center;
+}
+.div2{
+    text-align : center;
+    border : 3px solid red;
+    background-color: gray;
+}
+.div2 .gplay{
+    color : gray;
+    background-color: black;
+    border-radius: 10px;
+}
+.div2 button{
+    color : gray;
+    background-color: black;
+    border-radius : 10px;
+}
+.div3 span.fb,span.cu,span.uni,span.hil{
+    margin : 10px;
+    padding :10px;
+}
+.div3{
+    text-align : center;
+    color: rgb(186, 186, 186);
+    border : 3px solid blue;
+    background-color: white;
+    margin : 20px;
+    padding :20px;
+}
+.div3 h2{
+    font-weight: bold;
+    color : rgb(26, 26, 26);
+}
+.div3 .ny{
+    font-size : 0.7em;
+    position : relative;
+    top : 20px;
+    right : 180px;
+}
+.div3 span.uni,span.hil{
+    white-space: nowrap;
+    position : relative;
+    right : 140px;
+}
+.div3 span{
+    font-size : 1.3em;
+}
+.div3 .hil{
+    border: 2px solid gray;
+}
+.div456{
+    position :relative;
+    border : 3px solid firebrick;
+    background-color: lightblue;
+}
+.div4{
+    text-align : left;
+}
+.div5,.div6{
+    position : absolute;
+    left : 500px;
+    bottom : 20px;
+}
+.div6{
+    /* position : absolute; */
+    bottom : 20px;
+    left : 860px;
+}
+
+.div456 button{
+    color : red;
+    background-color: black;
+}
+.face{
+    position : relative;
+    bottom : 63px;
+    right: 230px;
+}
+.twoface{
+    position : relative;
+    bottom : 63px;
+    right: 210px;
+}
+.div5 .one{
+    position : relative;
+    bottom : 63px;
+    right: 230px;
+}
+.div6 .two{
+    position : relative;
+    bottom : 66px;
+    right: 210px;
+}
+.div5{
+    border: 3px solid gray;
+    color : white;
+    background-color: black;
+}
+.div6{
+    border: 3px solid gray;
+    color : white;
+    background-color: black;
+}
+.div1{
+    background-color: orangered;
+}
+.div99,.div98,.div97,.div96,.div95{
+    background-color: lightgreen;
+}
+footer{
+    background-color: burlywood;
+}
+footer .div8 ul{
+    max-width : 1000px;
+    margin : 0 auto;
+    position : relative;
+    bottom: 110px;
+}
+footer .div9 ul{
+    max-width : 1000px;
+    margin : 0 auto;
+    position : relative;
+    left : 200px;
+    bottom: 242px;
+}
+.div10 ul{
+    max-width : 1000px;
+    margin : 0 auto;
+    position : relative;
+    left : 400px;
+    bottom: 448px;
+}
+.div11{
+    max-width : 1000px;
+    margin: 0 auto;
+}
+.div11 ul{
+    position : relative;
+    left : 600px;
+    bottom : 35px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+img:hover{
+    border: 3px solid red;
+}
+form input:hover{
+    background-color: red;
+}
+form button:hover{
+    background-color: red;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+    font-size : 1.1em;
+    font-weight : bold;
+}
+h1,h2{
+    font-size: 1.1em;
+    font-weight : bold;
+}
+form input{
+    color : white;
+    background-color: black;
+}
